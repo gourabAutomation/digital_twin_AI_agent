@@ -1,0 +1,17 @@
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local profile data
+linkedin.pdf
+summary.txt
+
+# macOS
+.DS_Store
